@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Sync text
+=======
+This is the test demo
+>>>>>>> parent of 2aad390... 第一次删除
 Second change
