@@ -1,3 +1,8 @@
-Sync text
+﻿
+This is the test demo
+
+Second change
+
 Second change
 创建第一个分支
+>>>>>>> First's-new-branch
